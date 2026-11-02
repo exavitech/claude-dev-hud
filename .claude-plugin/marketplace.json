@@ -1,0 +1,6 @@
+{
+  "name": "exavitech",
+  "description": "Claude Code add-ons by Exavitech",
+  "owner": { "name": "Exavitech", "url": "https://exavitech.com" },
+  "plugins": [{ "name": "dev-hud", "source": "./plugins/dev-hud" }]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "dev-hud",
+  "version": "0.1.0",
+  "description": "Side pane with live tool calls, running subagents and usage-limit warnings",
+  "author": { "name": "Exavitech", "url": "https://exavitech.com" },
+  "homepage": "https://github.com/royalconsultant/claude-dev-hud",
+  "repository": "https://github.com/royalconsultant/claude-dev-hud",
+  "license": "MIT",
+  "keywords": ["hud", "status", "subagents", "tool-calls", "rate-limits"],
+  "icon": "./.claude-plugin/icon.png",
+  "types": "./types/index.d.ts"
+}
