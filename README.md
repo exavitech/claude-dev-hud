@@ -66,7 +66,7 @@ Tool calls 42 total · 1 failed
 **Everything (status line + side pane):**
 
 ```bash
-git clone https://github.com/royalconsultant/claude-dev-hud.git ~/claude-dev-hud
+git clone https://github.com/exavitech/claude-dev-hud.git ~/claude-dev-hud
 bash ~/claude-dev-hud/install.sh
 ```
 
@@ -75,10 +75,10 @@ Keep the cloned folder: the side pane is loaded from it. Start a new `claude` se
 **Side pane only**, at the Claude Code prompt:
 
 ```
-/plugin install dev-hud --marketplace royalconsultant/claude-dev-hud
+/plugin install dev-hud --marketplace exavitech/claude-dev-hud
 ```
 
-From a shell: `claude plugin install dev-hud --marketplace royalconsultant/claude-dev-hud`
+From a shell: `claude plugin install dev-hud --marketplace exavitech/claude-dev-hud`
 
 ## Update
 
